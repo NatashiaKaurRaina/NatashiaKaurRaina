@@ -20,6 +20,8 @@
 
 - 📫 How to reach me **kkaur12154@gmail.com**
 
+- 📝 View my resume [here](https://drive.google.com/file/d/1fukeNtogBqBDAuKLdpMaqG-jK0DC4Lud/view?usp=sharing)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/kyrankaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyrankaur" height="30" width="40" /></a>
