@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kiran Kaur</h1>
 <h3 align="center">Quantum Computing Enthusiast and Undergraduate Student at IIT Madras</h3>
 <img align="right" alt="Coding" width="440" height="310" src="https://techstory.in/wp-content/uploads/2022/05/QUant.gif">
-<img align="right" alt="Coding" width="400" height="310" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
+<img align="right" alt="Coding" width="410" height="310" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
 
 
