@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
-<p align="left"> <a href="https://twitter.com/kyrankaur" target="blank"><img src="https://img.shields.io/twitter/follow/kyrankaur?logo=twitter&style=for-the-badge" alt="kyrankaur" /></a> </p>
+<p align="left"> <a href="https://twitter.com/QuantumKiiran" target="blank"><img src="https://img.shields.io/twitter/follow/kyrankaur?logo=twitter&style=for-the-badge" alt="QuantumKiiran" /></a> </p>
 
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
