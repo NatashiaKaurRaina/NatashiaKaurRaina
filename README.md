@@ -10,7 +10,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
-<p align="left"> <a href="https://twitter.com/QuantumKiiran" target="blank"><img src="https://img.shields.io/twitter/follow/QuantumKiiran?logo=twitter&style=for-the-badge" alt="QuantumKiiran" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NatashiaKaur" target="blank"><img src="https://img.shields.io/twitter/follow/QuantumKiiran?logo=twitter&style=for-the-badge" alt="NatashiaKaur" /></a> </p>
 
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
@@ -24,9 +24,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/kyrankaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kyrankaur" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/kiran-kaur-b2922622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kiran-kaur-b2922622a" height="30" width="40" /></a>
-<a href="https://www.instagram.com/kiirankaur_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrankaur" height="30" width="40" /></a>
+<a href="https://twitter.com/NatashiaKaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NatashiaKaur" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/natashia-kaur-raina-b2922622a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natashia-kaur-raina-b2922622a" height="30" width="40" /></a>
+<a href="https://www.instagram.com/natashiakaurraina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrankaur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbsfNRBEOwlYnp-CtT7i9xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyrankaur" height="30" width="40" /></a>
 </p>
 
