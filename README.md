@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **kkaur12154@gmail.com**
 
-'''- 📄 View my resume [here]() '''
+- 📄 View my resume [here]()
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
