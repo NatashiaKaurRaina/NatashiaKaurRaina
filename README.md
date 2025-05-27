@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Natashia Kaur Raina</h1>
-<h3 align="center">Quantum Communication Researcher at QNu Labs and Undergraduate Student at IIT Madras</h3>
+<h3 align="center">Quantum Researcher at QNu Labs, Quantum Content Creator and Student at IIT Madras</h3>
 
 <img align="right" alt="Coding" width="405" height="290" src="https://techstory.in/wp-content/uploads/2022/05/QUant.gif">
 
