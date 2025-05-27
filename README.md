@@ -27,7 +27,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/NatashiaKaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="NatashiaKaur" height="30" width="40" /></a>
+<a href="https://twitter.com/NatashiaKaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NatashiaKaur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kiran-kaur-raina-b2922622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natashia-kaur-raina-b2922622a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/natashiakaurraina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrankaur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbsfNRBEOwlYnp-CtT7i9xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyrankaur" height="30" width="40" /></a>
