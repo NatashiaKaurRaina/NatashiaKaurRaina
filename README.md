@@ -25,13 +25,13 @@
 
 - 📄 View my resume [here](https://drive.google.com/file/d/17EKB3SVVctLchCRQvi5boAmNSihCiIfd/view?usp=sharing)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">If you're not following me here you are missing out!</h3>
 <p align="left">
 <a href="https://twitter.com/NatashiaKaur" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="NatashiaKaur" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/kiran-kaur-raina-b2922622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natashia-kaur-raina-b2922622a" height="30" width="40" /></a>
 <a href="https://www.instagram.com/natashiakaurraina" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kyrankaur" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCbsfNRBEOwlYnp-CtT7i9xg" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kyrankaur" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/kiran-kaur-raina-b2922622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="natashia-kaur-raina-b2922622a" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/kiran-kaur-raina-b2922622a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="natashia-kaur-raina-b2922622a" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
