@@ -6,14 +6,8 @@
 <img align="right" alt="Coding" width="405" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
 
-
-
-
-
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
-
-<p align="center"> <a href="https://twitter.com/NatashiaKaur" target="blank"><img src="https://img.shields.io/twitter/follow/NatashiaKaur?logo=twitter&style=for-the-badge" alt="NatashiaKaur" /></a> </p>
 
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
