@@ -6,15 +6,16 @@
 
 
 
-<img align="right" alt="Coding" width="500" height="500" src="https://nationalcioreview.com/wp-content/uploads/2025/01/TNCR-Staff-2.gif">
+<img align="right" alt="Coding" width="405" height="290" src="https://nationalcioreview.com/wp-content/uploads/2025/01/TNCR-Staff-2.gif">
 
-<img align="right" alt="Coding" width="500" height="500" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
+<img align="right" alt="Coding" width="405" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
 ---
-
+<p>
+  
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
 - 👯 I’m looking to collaborate on **Quantum Machine Learning and Quantum Cryptography Projects.**
@@ -23,7 +24,7 @@
 
 - 📫 How to reach me **kkaur12154@gmail.com**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/17EKB3SVVctLchCRQvi5boAmNSihCiIfd/view?usp=sharing)
+- 📄 View my resume [here](https://drive.google.com/file/d/17EKB3SVVctLchCRQvi5boAmNSihCiIfd/view?usp=sharing) </p>
 
 <h3 align="left">If you're not following me here you are missing out!</h3>
 <p align="left">
