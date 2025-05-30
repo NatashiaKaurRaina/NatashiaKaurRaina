@@ -10,6 +10,10 @@
 
 <img align="right" alt="Coding" width="405" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
+
+
+---
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
 ---
