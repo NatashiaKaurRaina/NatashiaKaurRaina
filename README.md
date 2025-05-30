@@ -7,6 +7,8 @@
 
 <img align="right" alt="Coding" width="405" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
+---
+
 
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
