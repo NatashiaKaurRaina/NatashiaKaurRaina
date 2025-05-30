@@ -10,7 +10,6 @@
 
 <img align="right" alt="Coding" width="405" height="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
-<p>
 
 <br><br>
 
@@ -29,7 +28,7 @@
 
 - 📫 How to reach me **kkaur12154@gmail.com**
 
-- 📄 View my resume [here](https://drive.google.com/file/d/17EKB3SVVctLchCRQvi5boAmNSihCiIfd/view?usp=sharing) </p>
+- 📄 View my resume [here](https://drive.google.com/file/d/17EKB3SVVctLchCRQvi5boAmNSihCiIfd/view?usp=sharing)
 
 <h3 align="left">If you're not following me here you are missing out!</h3>
 <p align="left">
