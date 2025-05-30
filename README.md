@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Natashia Kaur Raina</h1>
+<h1 align="center">Hi 👋, I'm Natashia(Kiran) Kaur Raina</h1>
 <h3 align="center">Quantum Researcher at QNu Labs, Quantum Content Creator and Student at IIT Madras</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
