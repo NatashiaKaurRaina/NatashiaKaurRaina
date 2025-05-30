@@ -11,7 +11,7 @@
 <img align="right" alt="Coding" width="405" height="250" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
 
-<br><br>
+<div style="clear: both;"></div> <!-- This clears the floated images -->
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
