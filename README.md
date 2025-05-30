@@ -1,13 +1,18 @@
 <h1 align="center">Hi 👋, I'm Natashia(Kiran) Kaur Raina</h1>
+
 <h3 align="center">Quantum Researcher at QNu Labs, Quantum Content Creator and Student at IIT Madras</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
+---
+
+
 
 <img align="right" alt="Coding" width="405" height="290" src="https://nationalcioreview.com/wp-content/uploads/2025/01/TNCR-Staff-2.gif">
 
 <img align="right" alt="Coding" width="405" height="290" src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*cno1u_GOb2lAuTMmG-e14g.gif">
 
--
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
+
+---
 
 - 🌱 I’m currently learning **Quantum Frameworks, AI, ML, Deep Learning, NLP, Quantum Machine Learning and Quantum Cryptography.**
 
