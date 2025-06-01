@@ -13,7 +13,7 @@
 
 <div style="clear: both;"></div> <!-- This clears the floated images -->
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kiirankaur&label=Profile%20views&color=0e75b6&style=flat" alt="kiirankaur" /> </p>
 
 
 
