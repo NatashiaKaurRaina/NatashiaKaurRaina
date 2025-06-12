@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Natashia(Kiran) Kaur Raina</h1>
 
-<h3 align="center">Quantum Researcher at QNu Labs, Quantum Content Creator and Student at IIT Madras</h3>
+<h3 align="center">Quantum Research Intern at QNu Labs, Quantum Content Creator & Student at IIT Madras</h3>
 
 ---
 
